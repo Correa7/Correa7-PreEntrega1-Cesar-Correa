@@ -1,4 +1,6 @@
-/* Ingresar un año por teclado. Mostrar si el año es Bisiesto o no; si es bisiseto, mostrar los proximos años bisiestos (4), */
+/* Ingresar un año por teclado. Mostrar si el año es Bisiesto o no; 
+Si es bisiseto, mostrar los proximos años bisiestos (4),
+Si No es bisiesto, mostrar ademas el proximo año que sera bisiesto. */
 
 
 /*    Version sin funciones    */
